@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my universe
 
-<!--
-**benbreyk/benbreyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I introduce myself,
+My name is Benjamin, I am currently 20 years old.
+I am passionate about computers and especially about development since I was very young.
 
-Here are some ideas to get you started:
+### My works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **nothing**
+- 🌱 I’m currently learning **nothing**
+- 🤔 I’m looking for help with **nothing**
+
+### 📫 How to reach me
+
+- [On my email address](benbreyk@proton.me)
+- [On my twitter](https://twitter.com/benbreyk)
