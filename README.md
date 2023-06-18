@@ -12,5 +12,5 @@ I am passionate about computers and especially about development since I was ver
 
 ### 📫 How to reach me
 
-- [On my email address](benbreyk@proton.me)
-- [On my twitter](https://twitter.com/benbreyk)
+- [On my email address](beninoonet@pm.me)
+- [On my twitter](https://twitter.com/beninoonet)
