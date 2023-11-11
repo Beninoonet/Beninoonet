@@ -6,10 +6,9 @@ I am passionate about computers and especially about development since I was ver
 
 ### My works
 
-- 🔭 I'm currently working on **My website**
-- 🌱 I’m currently learning **ReactJS**
+- 🔭 I'm currently working on **Discord Bot**
+- 🌱 I’m currently learning **TypeScript**
 
 ### 📫 How to reach me
 
 - [On my email address](beninoonet@pm.me)
-- [My bento](https://bento.me/beninoonet)
